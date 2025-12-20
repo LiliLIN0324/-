@@ -1,0 +1,5 @@
+{
+  "name": "Bubble Blast AI",
+  "description": "A modern, single-player bubble shooter game with AI-powered level generation and dynamic commentary using the Gemini API.",
+  "requestFramePermissions": []
+}
